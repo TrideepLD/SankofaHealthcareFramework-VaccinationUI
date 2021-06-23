@@ -1,0 +1,9 @@
+@import "./mixins.scss";
+
+.bx--label {
+  @include approval-modal-text;
+}
+
+.bx--modal-content {
+  padding-left: 10%;
+}

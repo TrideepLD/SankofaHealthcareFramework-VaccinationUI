@@ -1,0 +1,44 @@
+@import "./mixins.scss";
+
+.login-page {
+  padding: $spacing-08;
+  @include login-page-background;
+  min-height: 100vh;
+}
+.login-page__button {
+  width: 100%;
+}
+
+.login-page__button-container {
+  padding-top: $spacing-05;
+  padding-bottom: $spacing-04;
+}
+
+.login-page__form {
+  padding-top: $spacing-09;
+  max-width: 320px;
+}
+
+.login-page__heading {
+  padding-top: $spacing-05;
+  padding-bottom: $spacing-04;
+  @include login-page-text;
+}
+
+.login-page__input-container {
+  max-width: 90%;
+}
+
+.login-page__image {
+  max-width: 90%;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.login-page__text,
+.bx--label,
+.bx--checkbox-label {
+  @include login-page-text;
+}

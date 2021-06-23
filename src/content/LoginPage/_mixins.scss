@@ -1,0 +1,7 @@
+@mixin login-page-background() {
+  background-color: $ui-05;
+}
+
+@mixin login-page-text() {
+  color: $ui-02;
+}

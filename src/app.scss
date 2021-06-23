@@ -1,0 +1,17 @@
+@import "carbon-components/scss/globals/scss/vendor/@carbon/type/scss/font-family.scss";
+@import "carbon-components/scss/globals/scss/vendor/@carbon/layout/scss/breakpoint.scss";
+@import "carbon-components/scss/globals/scss/typography.scss";
+@import "carbon-components/scss/globals/scss/vars.scss";
+
+@import "./components/ShellHeader/shell-header.scss";
+@import "./content/LandingPage/landing-page.scss";
+@import "./content/LoginPage/login-page.scss";
+@import "./content/ConfirmationPage/confirmation-page";
+@import "./components/Registration/registration.scss";
+@import "./components/Approval/approval.scss";
+@import "./components/ViewDetails/viewDetails.scss";
+@import "./components/ConfirmationField/confirmationField.scss";
+
+.content-container {
+  padding: 0;
+}

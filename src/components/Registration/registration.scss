@@ -1,0 +1,27 @@
+@import "./mixins.scss";
+
+.bx--label {
+  @include labelText;
+}
+
+.registration-input {
+  margin-bottom: $spacing-05;
+}
+
+.bx--modal-content {
+  padding-left: 10%;
+}
+
+.toastContainer {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.bx--btn--secondary {
+  background-color: $interactive-02;
+}
+
+.bx--btn--secondary:hover {
+  background-color: $interactive-02;
+}
