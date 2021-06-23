@@ -117,30 +117,37 @@ These screens currently contain hardcoded demonstration data. As such, the next 
 
 #### [Approval](vaxui/src/components/Approval)
 Modal Component
+
 Handles display of modal contents, updating of record approval status and toast notifications
 
 #### [ConfirmationContent](vaxui/src/components/ConfirmationContent)
 Field Rendering Component 
+
 Displays the data of the patient in a standard format. Used alongside modals for displaying records
 
 #### [ConfirmationField](vaxui/src/components/ConfirmationField)
 Field Rendering Component
+
 Used to display record data in a standardised format
 
 #### [Registration](vaxui/src/components/Registration)
 Modal Component
+
 Used to register new users/patients.
 
 #### [ScheduleModal](vaxui/src/components/ScheduleModal)
 Modal Component
+
 Handles display of modal contents, scheduling form, updating of vaccination record and toast notifications
 
 #### [ShellHeader](vaxui/src/components/ShellHeader)
 Header Component
+
 Displays the outer UI shell of the application including menu bar/items and side bar/items to enable navigation
 
 #### [ViewDetails](vaxui/src/components/ViewDetails)
 Modal Component
+
 Handles display of modal contents i.e. Data related to the selected vaccination record
 
 
