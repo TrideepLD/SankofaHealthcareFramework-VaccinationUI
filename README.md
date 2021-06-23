@@ -148,20 +148,3 @@ Retrieves vaccination records, initiates primary table for displaying records an
 
 #### [Login Page](vaxui/src/content/LoginPage)
 Display form for logging into the application and handle authentication process
-
-
-### Team Members
-#### Documentation Team:
-Matthew De Masi (Project Leader)
-
-William Abson
-
-Shengyu Wang
-
-
-#### Development Team:
-Christopher Stedman (Lead Developer)
-
-Trideep Lal Das
-
-Hubert Hartan
