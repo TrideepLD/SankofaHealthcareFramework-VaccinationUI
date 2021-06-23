@@ -161,3 +161,8 @@ Retrieves vaccination records, initiates primary table for displaying records an
 
 #### [Login Page](vaxui/src/content/LoginPage)
 Display form for logging into the application and handle authentication process
+
+
+### Contributors
+
+This guy[Hubert Hartan](https://github.com/HubertHartan?tab=repositories)
