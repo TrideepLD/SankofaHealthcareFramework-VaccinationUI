@@ -28,14 +28,14 @@ const LandingPage = () => {
     <div className="bx--grid bx--grid--full-width landing-page">
       <div className="bx--row landing-page__banner">
         <div className="bx--col-lg-16">
+          <h1 className="landing-page__heading">
+            Designed &amp; Built with Carbon
+          </h1>
           <Breadcrumb noTrailingSlash aria-label="Page navigation">
             <BreadcrumbItem>
               <a href="/">Getting started</a>
             </BreadcrumbItem>
           </Breadcrumb>
-          <h1 className="landing-page__heading">
-            Designed &amp; Built with Carbon
-          </h1>
         </div>
       </div>
       <div className="bx--row landing-page__r2">
