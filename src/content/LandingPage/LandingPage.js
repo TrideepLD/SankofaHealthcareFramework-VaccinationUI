@@ -5,6 +5,7 @@ import {
   Button,
   Tabs,
   Tab,
+  Link,
 } from 'carbon-components-react';
 import { InfoSection, InfoCard } from '../../components/Info';
 import Globe32 from '@carbon/icons-react/lib/globe/32';
@@ -60,7 +61,9 @@ const LandingPage = () => {
                       data while providing organisations with access to the information relevant 
                       for their requirements.
                     </p>
-                    <Button>Learn more</Button>
+                    <Link href="https://github.com/TrideepLD/SankofaHealthcareFramework-VaccinationUI">
+                      <Button>Learn more</Button>
+                    </Link>
                   </div>
                   <div className="bx--col-md-4 bx--offset-lg-1 bx--col-lg-8">
                     <img
