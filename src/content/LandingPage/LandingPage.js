@@ -45,14 +45,20 @@ const LandingPage = () => {
                 <div className="bx--row landing-page__tab-content">
                   <div className="bx--col-md-4 bx--col-lg-7">
                     <h2 className="landing-page__subheading">
-                      What is Carbon?
+                    What is Sankofa Healthcare Framework?
                     </h2>
                     <p className="landing-page__p">
-                      Carbon is IBM’s open-source design system for digital
-                      products and experiences. With the IBM Design Language as
-                      its foundation, the system consists of working code,
-                      design tools and resources, human interface guidelines,
-                      and a vibrant community of contributors.
+                      The Sankofa Healthcare project aims to resolve these issues by 
+                      aggregating healthcare data and storing them using Hyperledger Fabric, 
+                      a popular blockchain technology. 
+                    </p>
+                    <p className="landing-page__p">
+                      Patients and relevant organisations can 
+                      then access the data stored on the blockchain by logging into a portal. 
+                      This portal will provide users with a different experience based on the 
+                      privileges of their account, allowing patients to manage their private 
+                      data while providing organisations with access to the information relevant 
+                      for their requirements.
                     </p>
                     <Button>Learn more</Button>
                   </div>
