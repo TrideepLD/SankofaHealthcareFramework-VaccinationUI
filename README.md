@@ -157,7 +157,7 @@ Handles display of modal contents i.e. Data related to the selected vaccination 
 Retrieves vaccination records, initiates primary table for displaying records and manages all modals
 
 #### [Landing Page](vaxui/src/content/LandingPage)
-*To be done by future teams
+Introduction Page to SHF-VaxUI
 
 #### [Login Page](vaxui/src/content/LoginPage)
 Display form for logging into the application and handle authentication process
@@ -165,4 +165,4 @@ Display form for logging into the application and handle authentication process
 
 ### Contributors
 
-This guy[Hubert Hartan](https://github.com/HubertHartan?tab=repositories)
+This guy [Hubert Hartan](https://github.com/HubertHartan?tab=repositories)
