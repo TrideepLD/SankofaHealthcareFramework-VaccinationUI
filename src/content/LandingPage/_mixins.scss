@@ -1,5 +1,6 @@
 @mixin landing-page-background() {
   background-color: $ui-01;
+  background-image: url("../../assets/shf-banner.jpg");
   position: relative;
 
   &::before {
@@ -9,7 +10,7 @@
     top: 0;
     right: -$spacing-06;
     bottom: 0;
-    background: $ui-01;
+    background: url("../../assets/shf-banner.jpg");
     z-index: -1;
   }
 }
