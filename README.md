@@ -165,4 +165,5 @@ Display form for logging into the application and handle authentication process
 
 ### Contributors
 
-This guy [Hubert Hartan](https://github.com/HubertHartan?tab=repositories)
+This guy [Hubert Hartan](https://github.com/HubertHartan?tab=repositories) 
+and this guy [Chris Stedman](https://github.com/ChrisStedman)
